@@ -23,15 +23,15 @@ PetPal is a command-line interface (CLI) application designed to manage pet adop
 ## FEATURES
 - Create Pet Profiles feature : Users can easily create profiles for pets available for adoption, providing details such as the pet's name, breed, age, description, and adoption status.
 
-Update Pet Details feature : Pet profiles are dynamic and can be updated as needed. Users have the option to modify information such as age, breed, description, and adoption status to keep pet profiles accurate and up to date.
+- Update Pet Details feature : Pet profiles are dynamic and can be updated as needed. Users have the option to modify information such as age, breed, description, and adoption status to keep pet profiles accurate and up to date.
 
-Manage Adoption Status feature : PetPal allows users to manage the adoption status of pets, marking them as available for adoption, pending adoption, or adopted. This feature provides transparency and clarity throughout the adoption process.
+- Manage Adoption Status feature : PetPal allows users to manage the adoption status of pets, marking them as available for adoption, pending adoption, or adopted. This feature provides transparency and clarity throughout the adoption process.
 
-Add Adopters feature : Users can record information about adopters who successfully adopt pets. This includes the adopters' names, contact details, and adoption dates, facilitating communication and record-keeping.
+- Add Adopters feature : Users can record information about adopters who successfully adopt pets. This includes the adopters' names, contact details, and adoption dates, facilitating communication and record-keeping.
 
-View Pet and Adopter Profiles feature : PetPal provides a comprehensive view of available pets, displaying their profiles along with adoption status. Users can also access individual pet and adopter profiles for more detailed information.
+- View Pet and Adopter Profiles feature : PetPal provides a comprehensive view of available pets, displaying their profiles along with adoption status. Users can also access individual pet and adopter profiles for more detailed information.
 
-Delete Pet and Adopter Profiles feature : Pet profiles and adopter profiles can be removed from the system when necessary, such as when a pet is adopted or no longer available for adoption.
+- Delete Pet and Adopter Profiles feature : Pet profiles and adopter profiles can be removed from the system when necessary, such as when a pet is adopted or no longer available for adoption.
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
